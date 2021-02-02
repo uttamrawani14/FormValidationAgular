@@ -1,0 +1,15 @@
+
+/* .abc{
+background: #fff;
+padding: 30px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px 0px #000;
+} */
+
+
+
+body{
+  font-family: 'Sriracha', cursive;
+  background: cyan;
+  padding-top: 10vh;
+}/* You can add global styles to this file, and also import other style files */

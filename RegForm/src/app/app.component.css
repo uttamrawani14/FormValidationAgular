@@ -1,0 +1,23 @@
+/* .abc{
+background: #fff;
+padding: 30px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px 0px #000;
+} */
+
+
+.form-container
+{
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0px 0px 10px 0px;
+  width: 400px;
+}
+
+body{
+  background: red;
+  padding-top: 10vh;
+}
+form{
+  background: #fff;
+}
